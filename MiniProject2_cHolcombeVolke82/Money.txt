@@ -1,0 +1,9 @@
+nickel(s):200:5
+dime(s):200:10
+quarter(s):300:25
+one-dollar bill(s):50:100
+five-dollar bill(s):10:500
+ten-dollar bill(s):5:1000
+twenty-dollar bill(s):0:2000
+US Dollar(s):0:0
+$:0:100

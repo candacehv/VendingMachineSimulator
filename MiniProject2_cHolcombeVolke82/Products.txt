@@ -1,0 +1,15 @@
+001,Chips Ahoy,chocolately goodness,little box,75,10
+002,Take5 Candy,Pretzels and such,plastic,75,10
+003,Crackers,Finest salty snack,plastic,50,10
+004,Pack of Gum,Double Berry Bubble,little box,125,10
+005,Doritos chips,Cruncy happiness,plastic bag,100,10
+006,Baked Chips,Salty and crunchy,plastic bag,100,10
+007,Famous Amos,chocolate chip nut,plastic bag,75,10
+008,Reeses Pieces,Smaller Reeses pieces,plastic bag,75,10
+009,Snickers,Hungry? Why wait?,plastic,75,10
+010,Crunch bar,chocolately happiness,plastic,75,10
+011,Energy bar,Fruity with granola,plastic,150,10
+012,Fresh Apple,A taste of nature,plastic bag,100,10
+013,Coca Cola,The refreshing original,plastic bottle,125,10
+014,Apple Juice,A crisp tart drink,plastic bottle,175,10
+015,Sticky Bun,Vanilla and cinnamon,plastic bag,75,10
